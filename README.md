@@ -30,6 +30,10 @@
     <th>Date</th>
     <th>Update</th>
   </tr>
+    <tr>
+    <td>2025-03-23</td>
+    <td>Ah, Still Cookin Somethin sick</td>
+  </tr>
   <tr>
     <td>2025-03-04</td>
 <td>VIIT CyberCell is LIT! Good CTF, though. My team is in 35th place.</td>
@@ -41,10 +45,6 @@
   <tr>
     <td>2025-03-01</td>
     <td>OSTEP paused for a CTF. Priorities matter.</td>
-  </tr>
-  <tr>
-    <td>2025-02-28</td>
-    <td>ReactJS half-done. Will redo it properly.</td>
   </tr>
   <tr>
     <td>2025-02-25</td>
