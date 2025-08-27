@@ -8,68 +8,15 @@
  </a>
 </div>
 
-
 ---
 
-<h1 align="center" style="color:#c9d1d9;">Yo, I'm Om Shingare</h1>
-
-<p align="center" style="color:#c9d1d9;">A paradox. A seeker of truth. A breaker of things. A fixer of knowledge.</p>
-
-
+<h1 align="center" style="color:#c9d1d9;">Something I love to code more than her..</h1>
 
 <div align="center" style="background-color:#0d1117; color:#c9d1d9;">
 
   <img width="25%" align='center' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 </div>
-
-
-<h2 id="present_status" style="color:#c9d1d9;">Present Status</h2>
-<table style="width:100%; border-collapse: collapse; background-color:#161b22; color:#c9d1d9;">
-  <tr style="background-color:#21262d;">
-    <th>Date</th>
-    <th>Update</th>
-  </tr>
-    <tr>
-    <td>2025-03-23</td>
-    <td>Ah, Still Cookin Somethin sick</td>
-  </tr>
-  <tr>
-    <td>2025-03-04</td>
-<td>VIIT CyberCell is LIT! Good CTF, though. My team is in 35th place.</td>
-  </tr>
-  <tr>
-    <td>2025-03-03</td>
-    <td>SLAE Module 1 completed. Module 2 begins today.</td>
-  </tr>
-  <tr>
-    <td>2025-03-01</td>
-    <td>OSTEP paused for a CTF. Priorities matter.</td>
-  </tr>
-  <tr>
-    <td>2025-02-25</td>
-    <td>Grinding through SLAE. Low-level mastery in progress.</td>
-  </tr>
-  <tr>
-    <td>2025-02-20</td>
-    <td>SGDE completed. Legally breaking things now.</td>
-  </tr>
-  <tr>
-    <td>2025-02-15</td>
-    <td>Bug Bounty Hunter. No shortcuts, no scripts, just skill.</td>
-  </tr>
-  <tr>
-    <td>2025-02-10</td>
-    <td>Every streak you've seen? Yeah, it's fake. But who cares? The grind is real.</td>
-  </tr>
-</table>
-
----
-
-<p align="center" style="color:#c9d1d9;"><b>BUGS ARE DRAWN TO ME:</b></p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ShingareOm/count.svg" alt="Visitor Count">
-</p>
 
 ---
 
@@ -81,19 +28,6 @@ while (challengeEndures) {
 }  
 // - Om Shingare, Ethical Hacker, Pain Enthusiast 
 ```  
-
----
-
-<h2 align="center" style="color:#c9d1d9;">Core Focus</h2>
-
-<ul style="color:#c9d1d9;">
-  <li>Security Research - Beyond automated tools, into the depths.</li>
-  <li>Network Exploitation - Understanding protocols to control them.</li>
-  <li>Reverse Engineering - Deconstructing binaries like a puzzle.</li>
-  <li>Geopolitics Analysis - Studying global shifts and power dynamics.</li>
-  <li>Space Exploration - ISRO first, then my own frontier.</li>
-</ul>
-
 ---
 
 <div align="center" style="color:#c9d1d9;">
