@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center" style="color:#c9d1d9;">sometimes I love to code more than her..</h1>
+<h1 align="center" style="color:#c9d1d9;">I code!</h1>
 
 <div align="center" style="background-color:#0d1117; color:#c9d1d9;">
 
