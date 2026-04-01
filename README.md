@@ -20,15 +20,6 @@
 
 ---
 
-```cpp
-while (challengeEndures) {  
-  if(!learn())
-    die()
-}  
-// - Om
-```  
----
-
 <div align="center" style="color:#c9d1d9;">
   <i><b>POC > POV</b><br>
   <b>Prove them wrong. Stay relentless.</b></i>
