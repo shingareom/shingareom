@@ -1,26 +1,12 @@
 <p align="center" style="background-color:#0d1117; color:#c9d1d9;">
   <img src="./elliot.gif" width="100%" height="auto"/>
 </p>
+  
+<samp>
+  
+:3
 
-<div align="center" style="background-color:#0d1117; color:#c9d1d9;">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FF0000&vCenter=true&width=750&height=50&lines=We+are+all+living+in+each+other%27s+paranoia." alt="Typing SVG" />
- </a>
-</div>
+backend // cybersecurity // linux
 
----
-
-<h1 align="center" style="color:#c9d1d9;">I code!</h1>
-
-<div align="center" style="background-color:#0d1117; color:#c9d1d9;">
-
-  <img width="25%" align='center' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-</div>
-
----
-
-<div align="center" style="color:#c9d1d9;">
-  <i><b>POC > POV</b><br>
-  <b>Prove them wrong. Stay relentless.</b></i>
-</div>
+<a href=""><strong>website</strong></a>  | <a href=""><strong>blogs/research</strong></a>  | <a href=""><strong>x</strong></a>  | <a href=""><strong>email</strong></a>
+</samp>
