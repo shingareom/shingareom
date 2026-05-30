@@ -6,7 +6,7 @@
   
 :3
 
-backend // cybersecurity // linux
+backend // system eng // linux
 
 <a href=""><strong>website</strong></a>  | <a href=""><strong>blogs/research</strong></a>  | <a href=""><strong>x</strong></a>  | <a href=""><strong>email</strong></a>
 </samp>
