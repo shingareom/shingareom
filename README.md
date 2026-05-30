@@ -1,5 +1,5 @@
 <p align="center" style="background-color:#0d1117; color:#c9d1d9;">
-  <img src="https://github.com/user-attachments/assets/feea2257-c786-420e-85c5-7c74d25d4c6c" width="100%" height="auto"/>
+  <img src="./elliot.gif" width="100%" height="auto"/>
 </p>
 
 <div align="center" style="background-color:#0d1117; color:#c9d1d9;">
