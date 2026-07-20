@@ -8,5 +8,5 @@
 
 backend // system eng // linux
 
-<a href="https://omshingare.me"><strong>website</strong></a>  | <a href="https://omshingare.me/blogs"><strong>blogs/research</strong></a>  | <a href="mailto:mail@omshingare.me"><strong>email</strong></a>
+<a href="https://omshingare.me"><strong>website</strong></a>  | <a href="https://omshingare.me/blog"><strong>blogs/research</strong></a>  | <a href="mailto:mail@omshingare.me"><strong>email</strong></a>
 </samp>
